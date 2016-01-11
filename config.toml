@@ -1,3 +1,199 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://localhost:8080/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Other Communication"
+theme = "agency"
+
+[params]
+
+    # You can use Markdown syntax for urls [text](//url.to/source) or
+    # most longer texts.
+    #
+    # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+    # for more icons. The icons are represented by their corresponding
+    # CSS class.
+
+    # To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+    name = "Shani Herrmann"
+    description = "Intercultural Content Strategy"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    email = "shani@theothercommunication.com"
+
+
+    # Navigation
+    [params.navigation]
+		brand = "The Other Communication"
+        brandbyline = "Intercultural Strategy"
+        services = "What I Do"
+		about = "Philosophy"
+        portfolio = "Clients"
+        team = "About"
+        contact = "Contact"
+
+
+    # Hero section
+    [params.hero]
+        # To change the background image of the hero, replace 'header-bg.jpg' in
+        # the 'static/img' folder.
+        title = "Convince Others"
+        subtitle = "learn your clients' language"
+        buttonText = "Tell me more"
+
+
+    # Services section
+    [params.services]
+        title = "The Other Communication"
+        subtitle = "You've got a great product and you want to sell it to more customers...but it's not a simple question of features and benefits. It's about understanding the problem your customer wants to solve AND their values and assumptions - their culture - which will determine how they go about solving it. Shani can help you get inside your clients' mind, wear their shoes, so that when they get thirsty, you'll be standing there with a glass of water. (How refreshing!) She studies cultures - all types (national cultures, work cultures...and cultures around any shared experience - deaf culture, metal culture, etc.), have their own values and assumptions. When you understand these unwritten rules, you understand your customer, and can consequently communicate with them and serve them. Here's an analogy: If you want a solid foundation for your house, you hire someone to survey the land before you hire an architect or a builder. That's what Shani does: she studies the lay of the land - your target customer's universe - so that she can work with the architect and the builder (your marketing, communication or product development teams) so that the final product can be truly excellent.You've got marketing people; you've got communications people; do you have interculturalists? Specialists in culture who will make sure your message makes sense?"
+
+        [[params.services.row]]
+
+            [[params.services.row.list]]
+                icon = "fa-gift"
+                title = "Know yourself."
+                description = "What are your values? What do you believe? This information is baked into the DNA of your product. You craft the package: From content (what's in and what's not) to appearance (style, etc.), your package is a product of who you are and what you believe. If you can express it in a way your market can understand and appreciate, you'll have more customers."
+
+            [[params.services.row.list]]
+                icon = "fa-hand-o-right"
+                title = "Know your customer."
+                description = "Who are they, anyway? We create a portrait of your typical user. We seek their mental model: How does he/she think? Our objective? To get inside their shoes."
+
+            [[params.services.row.list]]
+                icon = "a-envelope-o"
+                title = "Craft the Message."
+                description = "This is where most people start - but that's like laying bricks or hiring an architect to draw up plans before surveying the lay of the land. Clarify your content. Remove extraneous bits so that your audience can focus on your message - on what's important. Adapt your structure - pick one that will make sense and please your audience. Your format  Form Your message can take several different forms: You can say it out loud (a speech, a presentation) You can write it on paper or virtually ( or written (a CV, a website), You can make it into an experience and transmit the message implicitly. Vehicle Simplicity is the ultimate sophistication. -Leonardo da Vinci"
+
+    # Portfolio section
+    [params.portfolio]
+        # All projects defined in their own files. You can find example projects
+        # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+        # at the root of this Hugo site.
+        # For more informtion take a look at the README.
+        title = "They speak their clients' language"
+        subtitle = "Case Studies" 
+
+        [params.portfolio.modal]
+            client = "Client"
+            date = "Date"
+            category = "Category"
+            buttonText = "Close project"
+
+
+    # About section
+    [params.about]
+        title = "Roots"
+        subtitle = "The Ingredients in Shani's Secret Sauce"
+        endpoint = "Your<br>Project"
+
+        # The events will be listed from the top to the bottom.
+        # All images are stored under 'static/img/about'.
+        # Replace them with your own.
+        [[params.about.events]]
+            img = "1.jpg"
+            date = ""
+			circletext = "Our<br>mission"
+            title = "Connecting People"
+            description = "...by helping them deeply understand themselves and the Other.  When you walk in other people's shoes, you have the benefit of multiple, unique perspectives. This makes you more creative. When you can see through the many dimensions of a kaleidescope, you become a multi-dimensional, multi-faceted You. It's the difference between a rough diamond and a cut one!"
+
+        [[params.about.events]]
+            img = "Place setting 200.jpg"
+            date = ""
+            title = "Other cultures"
+            description = "My love for different people and cultures comes from my father. He was born in Morocco. Before going into sales, he was a social worker for troubled youth and has always had a penchant for psychology. He met my mother on a coast-to-coast road trip of the USA, where he has lived for over 30 years. He speaks 4 languages. Apparently, the apple doesn’t fall far from the tree. I was born in the Middle East, grew up in multicultural South Florida (USA), and love understanding what makes people tick. I met my French husband in Paris while I was on layover as an international flight attendant. Like my father, I live abroad, speak four languages (English, French, Spanish & Portuguese)...and have a daughter whose passport is different than mine."
+
+        [[params.about.events]]
+            img = "montessori cube 200.jpg"
+            date = ""
+            title = "Montessori"
+            description = "Montessori is the educational philosophy that helped me grow. Between the ages of 3 and 6, I attended my grandmother’s Montessori school, where they promoted the following philosophy: To aid life, leaving it free, however to unfold itself, that is the basic task of the educator. -Maria Montessori  This approach - to give people the space and conditions in which they can grow on their own - has come to define the way I learn. No surprise, then, that I use the same approach with my clients. I create an environment where people can feel at ease, be creative, and most of all, be themselves. Great things can happen in this space: we can put our finger on what is true, what is essential. Like my mother, grandmother and aunts - all teachers - I gain a deep satisfaction from seeing people grow."
+
+        [[params.about.events]]
+            img = "globe 200.jpg"
+            date = ""
+            title = "Living abroad"
+            description = "My time abroad has taught me many things. I’ve learned how to adjust to living in a new country, with a new language and culture. I’ve made friends, diverse in their backgrounds but similar in their values.Most importantly, I’ve learned that language alone is not enough to truly understand people. You must understand the values that govern their belief systems, and recognize the manifestations of those values (language being only one)."
+
+    # Team section
+    [params.team]
+        title = "I am"
+        subtitle = ""
+        description = "...on a constant search for what is essential - that One Thing that unlocks many other things, like the elements in the periodic table. Finding that grain of truth requires both intuition and analysis, art and science, right brain and left brain. Connecting people by helping them deeply understand themselves and the Other.Connecting people by helping them deeply understand themselves and the Other.Finding the key is wonderful - it's like unlocking a puzzle!"
+
+        # All team member's pictures are stored under 'static/img/team'.
+        # Replace them with your own too.
+
+        [[params.team.members]]
+            img = "shani-portrait.jpg"
+            name = "Shani Herrmann"
+            position = "Intercultural Strategist"
+            social = [
+                ["fa-twitter", "#"],
+                ["fa-facebook", "#"],
+                ["fa-linkedin", "#"]
+            ]
+
+    # Client section
+    # All the clients' logos are stored under 'static/img/logos'.
+    # Replace them with your clients's logos.
+    [[params.clients]]
+        logo = ".jpg"
+        link = "#"
+
+    # Contact section
+    [params.contact]
+        title = "Let's talk."
+        subtitle = "Send in this form or call Shani at +33 6 41 88 23 40"
+        buttonText = "Send"
+
+        # 'warning' defines error messages for invalid inputs
+        [params.contact.form.name]
+            text = "Your Name *"
+            warning = "Please enter your name."
+
+        [params.contact.form.email]
+            text = "Your Email *"
+            warning = "Please enter your email address."
+
+        [params.contact.form.phone]
+            text = "Your Phone *"
+            warning = "Please enter your phone number."
+
+        [params.contact.form.message]
+            text = "Your Message *"
+            warning = "Please enter a message."
+
+
+    # Footer section
+    [params.footer]
+        copyright = "Published under the Apache License 2.0."
+
+        [[params.footer.social]]
+            icon = "fa-twitter"
+            link = "#"
+
+        [[params.footer.social]]
+            icon = "fa-facebook"
+            link = "#"
+
+        [[params.footer.social]]
+            icon = "fa-linkedin"
+            link = "#"
+
+        [[params.footer.quicklinks]]
+            text = "Privacy Policy"
+            link = "#"
+
+        [[params.footer.quicklinks]]
+            text = "Terms of Use"
+            link = "#"
+
