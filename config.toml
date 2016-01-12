@@ -1,4 +1,4 @@
-baseurl = "http://localhost:8080/"
+baseurl = "http://theothercommunication.com/"
 languageCode = "en-us"
 title = "The Other Communication"
 theme = "agency"
@@ -34,7 +34,6 @@ theme = "agency"
     # Navigation
     [params.navigation]
 		brand = "The Other Communication"
-        brandbyline = "Intercultural Strategy"
         services = "What I Do"
 		about = "Philosophy"
         portfolio = "Clients"
@@ -54,24 +53,22 @@ theme = "agency"
     # Services section
     [params.services]
         title = "The Other Communication"
-        subtitle = "You've got a great product and you want to sell it to more customers...but it's not a simple question of features and benefits. It's about understanding the problem your customer wants to solve AND their values and assumptions - their culture - which will determine how they go about solving it. Shani can help you get inside your clients' mind, wear their shoes, so that when they get thirsty, you'll be standing there with a glass of water. (How refreshing!) She studies cultures - all types (national cultures, work cultures...and cultures around any shared experience - deaf culture, metal culture, etc.), have their own values and assumptions. When you understand these unwritten rules, you understand your customer, and can consequently communicate with them and serve them. Here's an analogy: If you want a solid foundation for your house, you hire someone to survey the land before you hire an architect or a builder. That's what Shani does: she studies the lay of the land - your target customer's universe - so that she can work with the architect and the builder (your marketing, communication or product development teams) so that the final product can be truly excellent.You've got marketing people; you've got communications people; do you have interculturalists? Specialists in culture who will make sure your message makes sense?"
-
+        subtitle = "You've got a great product and a great marketing and communications team to help you sell it. Business is good. But is it all it could be? <br><br>Imagine the difference that truly understanding your customer can make  - not just serving them in the way you believe to be right, but in the way they do. <br><br>Shani Herrmann, intercultural strategist, can help you see inside your clients' mind. You'll walk a day in their shoes, and when they get thirsty, you'll know where to stand with a glass of water. <img src='img/glass-of-water.jpg'> <span style='font-style:italic'> (Perfectly positioned - How refreshing!)</span><br><br>Shani studies cultures - groups with shared experiences, values, and language, from national cultures to work cultures to music cultures and everything in between. She brings their unwritten rules to light and strategizes the best ways to present your message to your customer in their language.<br><br>Think of it like this: When you build a house, you hire someone to survey the land before hiring an architect or a builder. Shani studies the lay of the land - your target customer's values, assumptions, history, and language - so that she can work with the architect and the builder (your marketing, communication or product development teams) so that the final product can be truly excellent. Hiring Shani ensures that what you say to your customers makes sense to them."
         [[params.services.row]]
 
             [[params.services.row.list]]
-                icon = "fa-gift"
+                icon = "fa-hand-o-left"
                 title = "Know yourself."
-                description = "What are your values? What do you believe? This information is baked into the DNA of your product. You craft the package: From content (what's in and what's not) to appearance (style, etc.), your package is a product of who you are and what you believe. If you can express it in a way your market can understand and appreciate, you'll have more customers."
-
+                description = "What are your values? What do you believe? Shani will listen and help you distill your answers so that they are clear to your audience."
             [[params.services.row.list]]
                 icon = "fa-hand-o-right"
                 title = "Know your customer."
-                description = "Who are they, anyway? We create a portrait of your typical user. We seek their mental model: How does he/she think? Our objective? To get inside their shoes."
+                description = "Through user research and interviews, we discover who your happy customers are and how they got that way. Shani analyzes the data to create a mental model that goes deep to describe the values of your customer."
 
             [[params.services.row.list]]
-                icon = "a-envelope-o"
+                icon = "fa-envelope-o"
                 title = "Craft the Message."
-                description = "This is where most people start - but that's like laying bricks or hiring an architect to draw up plans before surveying the lay of the land. Clarify your content. Remove extraneous bits so that your audience can focus on your message - on what's important. Adapt your structure - pick one that will make sense and please your audience. Your format  Form Your message can take several different forms: You can say it out loud (a speech, a presentation) You can write it on paper or virtually ( or written (a CV, a website), You can make it into an experience and transmit the message implicitly. Vehicle Simplicity is the ultimate sophistication. -Leonardo da Vinci"
+                description = "Time to strategize. What's your project? A presentation? A website? A relationship? Shani strategizes ways to connect you and your customers. From positionning your message to choosing a favorable structure and convincing style, she'll work with you and your team so you can get understood."
 
     # Portfolio section
     [params.portfolio]
@@ -103,13 +100,13 @@ theme = "agency"
             date = ""
 			circletext = "Our<br>mission"
             title = "Connecting People"
-            description = "...by helping them deeply understand themselves and the Other.  When you walk in other people's shoes, you have the benefit of multiple, unique perspectives. This makes you more creative. When you can see through the many dimensions of a kaleidescope, you become a multi-dimensional, multi-faceted You. It's the difference between a rough diamond and a cut one!"
+            description = "...by helping them deeply understand themselves and the Other.  Because we acquire multiple, unique perspectives when we walk in other people's shoes, and respond differently to each one, creating multiple versions of ourselves. Learning to communicate with Others is an enriching experience for each of us."
 
         [[params.about.events]]
             img = "Place setting 200.jpg"
             date = ""
-            title = "Other cultures"
-            description = "My love for different people and cultures comes from my father. He was born in Morocco. Before going into sales, he was a social worker for troubled youth and has always had a penchant for psychology. He met my mother on a coast-to-coast road trip of the USA, where he has lived for over 30 years. He speaks 4 languages. Apparently, the apple doesn’t fall far from the tree. I was born in the Middle East, grew up in multicultural South Florida (USA), and love understanding what makes people tick. I met my French husband in Paris while I was on layover as an international flight attendant. Like my father, I live abroad, speak four languages (English, French, Spanish & Portuguese)...and have a daughter whose passport is different than mine."
+            title = "Other Cultures"
+            description = "Shani's love for the peoples and cultures of the world comes from her father: originally from Morocco. he is an expatriate who married someone from another country, speaks 4 languages.<br><br>The apple doesn’t fall far from the tree. Shani is also an expatriate who married someone from another country, speaks four languages - and, like her father, has a daughter with a different passport."
 
         [[params.about.events]]
             img = "montessori cube 200.jpg"
