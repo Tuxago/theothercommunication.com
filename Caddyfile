@@ -1,0 +1,10 @@
+0.0.0.0:80 {
+git github.com/Tuxago/theothercommunication.com.git ../src {
+    then git submodule init
+    then git submodule update
+    then hugo --destination=/srv/public
+}
+gzip
+log ../access.log
+root public
+}
