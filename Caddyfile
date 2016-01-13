@@ -3,6 +3,7 @@ git github.com/Tuxago/theothercommunication.com.git ../src {
     then git submodule init
     then git submodule update
     then hugo --destination=/srv/public
+    hook /_webhook supersecrethoho
 }
 gzip
 log ../access.log
