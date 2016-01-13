@@ -150,7 +150,7 @@ theme = "agency"
     # Contact section
     [params.contact]
         title = "Let's talk."
-        subtitle =  "Shani is looking forward to hearing from you at +33 6 41 88 23 40."
+        subtitle =  "Shani is looking forward to hearing from you at [+33 6 41 88 23 40](tel:+33641882340)."
         buttonText = "Send"
 
         # 'warning' defines error messages for invalid inputs
