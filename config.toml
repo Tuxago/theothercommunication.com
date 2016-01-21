@@ -36,7 +36,7 @@ theme = "agency"
 		brand = "The Other Communication"
         services = "What I Do"
 		about = "Philosophy"
-        portfolio = "Clients"
+        portfolio = "Testimonials"
         team = "About"
         contact = "Contact"
 
@@ -46,7 +46,7 @@ theme = "agency"
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
         title = "Truly Communicate"
-        subtitle = "learn your clients' language"
+        subtitle = "Take your audience's culture into account"
         buttonText = "Tell me more"
 
 
