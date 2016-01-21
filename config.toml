@@ -45,26 +45,26 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "Truly Communicate"
-        subtitle = "Take your audience's culture into account"
+        title = "The secret ingredient for communicating authentically & effectively"
+        subtitle = "Put culture in your message"
         buttonText = "Tell me more"
 
 
     # Services section
     [params.services]
-        title = "From good to great"
-        subtitle = "Defining customer needs and appropriate solutions is only a part of the equation: the secret ingredient to excellent customer satisfaction and sales is understanding how your customers think.<br><br>Shani Herrmann, intercultural strategist, can help you see inside your clients' mind.<br><div style='text-align: center;'>![brain](img/mind 200.jpg)</div><br><br>She goes deep, beyond simple translation or local preference (red vs. blue). <br><br>Her goal? True communication with your customer."
+        title = "Take your communication level from good to great"
+        subtitle = "The secret ingredient to communicating effectively is culture: understanding how your audience thinks.<br><br>Shani Herrmann, intercultural strategist, can help you see inside your audience's mind.<br><div style='text-align: center;'>![brain](img/mind 200.jpg)</div><br><br>She goes deep, interpreting values, not just prescribing recipes.<br><br>Her goal? True communication with your audience."
 
 		[[params.services.row]]
 
             [[params.services.row.list]]
                 icon = "fa-hand-o-left"
                 title = "Know yourself."
-                description = "What are your values? What do you believe? Shani will listen and help you distill your answers so that they are clear to your audience."
+                description = "What do you want to communicate? What are the values behind that? Shani will help you distill your answers so that they can become clear to your audience."
             [[params.services.row.list]]
                 icon = "fa-hand-o-right"
-                title = "Know your customer."
-                description = "Through user research and interviews, we discover who your happy customers are. Shani analyzes the data to create a mental model that goes deep to describe the values of your customer. She studies cultures - groups with shared experiences<br><br>[**Shared experience:** same country, same company, same profession, same challenge, same cause, same preferences]<br><br>Shared experiences mean **shared values**, and consequently, shared **priorities**, **language** and **behaviors**. Shani can help you uncover and decipher these unwritten rules."
+                title = "Know your audience."
+                description = "Through research and interviews, we find get to know your audience's culture. Shani analyzes the data to create a mental model that describes their values. She studies cultures - groups with shared experiences<br><br>[**Shared experience:** same country, same company, same profession, same challenge, same cause, same preferences]<br><br>Shared experiences mean **shared values**, and consequently, shared **priorities**, **language** and **behaviors**. Shani can help you uncover and decipher these unwritten rules."
 
             [[params.services.row.list]]
                 icon = "fa-envelope-o"
