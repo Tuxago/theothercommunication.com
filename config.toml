@@ -45,7 +45,7 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "The secret ingredient for communicating authentically & effectively"
+        title = "The Secret Ingredient for Effective Communication"
         subtitle = "Put culture in your message"
         buttonText = "Tell me more"
 
