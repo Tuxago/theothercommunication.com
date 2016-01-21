@@ -52,7 +52,7 @@ theme = "agency"
 
     # Services section
     [params.services]
-        title = "Take your communication level from good to great"
+        title = "Take your message from good to great"
         subtitle = "The secret ingredient to communicating effectively is culture: understanding how your audience thinks.<br><br>Shani Herrmann, intercultural strategist, can help you see inside your audience's mind.<br><div style='text-align: center;'>![brain](img/mind 200.jpg)</div><br><br>She goes deep, interpreting values, not just prescribing recipes.<br><br>Her goal? True communication with your audience."
 
 		[[params.services.row]]
@@ -69,7 +69,7 @@ theme = "agency"
             [[params.services.row.list]]
                 icon = "fa-envelope-o"
                 title = "Craft the Message."
-                description = "Time to strategize. What's your project? A presentation? A website? A relationship? Shani strategizes ways to connect you and your customers. From positionning your message to choosing a favorable structure and convincing style, she'll work with you and your team so you can get understood. Then she helps you find best ways to integrate them into your communication strategy and materials."
+                description = "Put your insights to work. Whether it's a presentation, important meeting, website or relationship, Shani can help you apply the insights you've gleaned about your audience's culture to help you connect with them. From positionning your message to choosing a favorable structure and convincing style, she'll work with you to make sure your communication strategy and materials stay true to your audience's culture."
 
     # Portfolio section
     [params.portfolio]
@@ -77,8 +77,8 @@ theme = "agency"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "They speak their clients' language"
-        subtitle = "Case Studies" 
+        title = "Testimonials"
+        subtitle = "How Putting Culture in Your Message Pays Off" 
 
         [params.portfolio.modal]
             client = "Client"
@@ -89,8 +89,8 @@ theme = "agency"
 
     # About section
     [params.about]
-        title = "Roots"
-        subtitle = "Ingredients in Shani's Secret Sauce"
+        title = "The Making of an Intercultural Strategist"
+        subtitle = "From Here to There"
         endpoint = "Your<br>Project"
 
         # The events will be listed from the top to the bottom.
@@ -99,7 +99,7 @@ theme = "agency"
         [[params.about.events]]
             img = "1.jpg"
             date = ""
-			circletext = "Our<br>mission"
+			circletext = "My<br>mission"
             title = "Connecting People"
             description = "...by helping them deeply understand themselves and the Other.  Because we acquire multiple, unique perspectives when we walk in other people's shoes, and respond differently to each one, creating multiple versions of ourselves. Learning to communicate with Others is an enriching experience for each of us."
 
@@ -107,25 +107,25 @@ theme = "agency"
             img = "Place setting 200.jpg"
             date = ""
             title = "Other Cultures"
-            description = "Shani's love for the peoples and cultures of the world comes from her father: originally from Morocco. he is an expatriate who  speaks 4 languages and married someone from another country.<br><br>The apple doesn’t fall far from the tree. Shani is also an expatriate who speaks four languages (English, French, Portuguese and Spanish), married someone from another country,  - and, like her father, has a daughter with a different passport."
+            description = "My love for the peoples and cultures of the world comes from my father: originally from Morocco, he is an expatriate who speaks 4 languages and married someone from another country.<br><br>The apple doesn’t fall far from the tree. I am also an expatriate who speaks four languages (English, French, Portuguese and Spanish), married to someone from another country - and, like my father, have a daughter with a different passport."
 
         [[params.about.events]]
             img = "montessori cube 200.jpg"
             date = ""
             title = "Montessori"
-            description = "Shani attended her grandmother’s Montessori school which promoted the philosophy of letting children unfold naturally and helping them learn to do for themselves. This approach - to give people the space and conditions in which they can grow on their own - has come to define the way I learn. No surprise, then, that I use the same approach with my clients. I create an environment where people can feel at ease, be creative, and most of all, be themselves. Great things can happen in this space: we can put our finger on what is true, what is essential. Like my mother, grandmother and aunts - all teachers - I gain a deep satisfaction from seeing people grow."
+            description = "I attended my grandmother’s Montessori school which promoted the philosophy of letting children unfold naturally and helping them learn to do for themselves. This approach - to give people the space and conditions in which they can grow on their own - has come to define the way I learn. No surprise, then, that I use the same approach with my clients. I create an environment where people can feel at ease, be creative, and most of all, be themselves. Great things can happen in this space: we can put our finger on what is true, what is essential. Like my mother, grandmother and aunts - all teachers - I gain a deep satisfaction from seeing people grow."
 
         [[params.about.events]]
             img = "globe 200.jpg"
             date = ""
-            title = "Living abroad"
+            title = "Living Abroad"
             description = "My time abroad has taught me many things. I’ve learned how to adjust to living in a new country, with a new language and culture. I’ve made friends, diverse in their backgrounds but similar in their values.Most importantly, I’ve learned that language alone is not enough to truly understand people. You must understand the values that govern their belief systems, and recognize the manifestations of those values (language being only one)."
 
     # Team section
     [params.team]
-        title = "I am"
+        title = "I am..."
         subtitle = ""
-        description = "...on a constant search for what is essential - the values that we manifest in so many ways. Finding these grains of truth - what someone considers truly important - requires both intuition and analysis, art and science, right brain and left brain. Understanding someone's values is the key to communicating with them. It's how we connect."
+        description = "on a constant search for what is essential: values, and the many ways we interpret them.<br><br>Finding what people consider truly important requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect deeply and humanly, in a way that is deeper than speaking the same language or doing the right handshake. Understanding someone's values makes the right language or handshake irrelevant."
 
         # All team member's pictures are stored under 'static/img/team'.
         # Replace them with your own too.
@@ -150,7 +150,7 @@ theme = "agency"
     # Contact section
     [params.contact]
         title = "Let's talk."
-        subtitle =  "Shani is looking forward to hearing from you at [+33 6 41 88 23 40](tel:+33641882340)."
+        subtitle =  "Write me a note or call me at [+33 6 41 88 23 40](tel:+33641882340)."
         buttonText = "Send"
 
         # 'warning' defines error messages for invalid inputs
