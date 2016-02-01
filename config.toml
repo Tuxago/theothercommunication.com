@@ -54,6 +54,7 @@ theme = "agency"
     [params.services]
         title = "From good to great"
         subtitle = "The secret ingredient to communicating effectively is culture: understanding how your audience thinks.<br><br>Shani Herrmann, intercultural strategist, can help you see inside your audience's mind.<br><br>She goes deep, interpreting values, not just prescribing recipes.<br><br>The goal? True communication with your audience: You understand them, and they understand you."
+		title = "A Sample Conversation"
 
 		[[params.services.row]]
 		title = "A Sample Conversation"
