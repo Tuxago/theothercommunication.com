@@ -45,17 +45,18 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "The Secret Ingredient for Effective Communication"
-        subtitle = "Put culture in your message"
+        title = "Communicate Effectively"
+        subtitle = "Crack the Cultural Code"
         buttonText = "Tell me more"
 
 
     # Services section
     [params.services]
-        title = "Take your message from good to great"
-        subtitle = "The secret ingredient to communicating effectively is culture: understanding how your audience thinks.<br><br>Shani Herrmann, intercultural strategist, can help you see inside your audience's mind.<br><div style='text-align: center;'>![brain](img/mind 200.jpg)</div><br><br>She goes deep, interpreting values, not just prescribing recipes.<br><br>Her goal? True communication with your audience."
+        title = "From good to great"
+        subtitle = "The secret ingredient to communicating effectively is culture: understanding how your audience thinks.<br><br>Shani Herrmann, intercultural strategist, can help you see inside your audience's mind.<br><br>She goes deep, interpreting values, not just prescribing recipes.<br><br>The goal? True communication with your audience: You understand them, and they understand you."
 
 		[[params.services.row]]
+		title = "A Sample Conversation"
 
             [[params.services.row.list]]
                 icon = "fa-hand-o-left"
