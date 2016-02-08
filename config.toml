@@ -45,28 +45,28 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "Communicate Effectively"
-        subtitle = "Crack the Cultural Code"
+        title = "Get close to your customers"
+        subtitle = "Learn how they think"
         buttonText = "Tell me more"
 
 
     # Services section
     [params.services]
         title = "Reach your audience"
-        subtitle = "Culture is the secret ingredient to communicating effectively. When you know how your audience thinks, you can make your message easy for them to understand. <br><br>Shani Herrmann, intercultural strategist, can help you uncover your audience's culture see deep inside your audience's mind by understanding what their values are.<br><br>The goal? True communication with your audience: You understand them, and they understand you."
+        subtitle = "Shani Herrmann, intercultural strategist, can help understand how your audience thinks. <br><br>Result: You understand them. They understand you."
 
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = "fa-hand-o-left"
                 title = "Know yourself."
-                description = "What do you want to communicate? What are the values behind that? Shani will help you distill your answers so that they can become clear to your audience."
+                description = "Your values. Your message.<br><br>Shani can help you put these into words, on paper."
             [[params.services.row.list]]
-                icon = "fa-hand-o-right"
+                icon = "fa-key"
                 title = "Know your audience."
-                description = "Through research and interviews, we find get to know your audience's culture. Shani analyzes the data to create a mental model that describes their values. She studies cultures - groups with shared experiences<br><br>[**Shared experience:** same country, same company, same profession, same challenge, same cause, same preferences]<br><br>Shared experiences mean **shared values**, and consequently, shared **priorities**, **language** and **behaviors**. Shani can help you uncover and decipher these unwritten rules."
+                description = "How they think (their mental model). Their culture. Their assumptions.<br><br>Shani will analyze your market research and talk with conversations Through research and interviews, we find get to know your audience's culture. Shani analyzes the data to create a mental model that describes their values. She studies cultures - groups with shared experiences<br><br>[**Shared experience:** same country, same company, same profession, same challenge, same cause, same preferences]<br><br>Shared experiences mean **shared values**, and consequently, shared **priorities**, **language** and **behaviors**. Shani can help you uncover and decipher these unwritten rules."
 
             [[params.services.row.list]]
-                icon = "fa-envelope-o"
+                icon = "fa-commenting-o"
                 title = "Craft the Message."
                 description = "Put your insights to work. Whether it's a presentation, important meeting, website or relationship, Shani can help you apply the insights you've gleaned about your audience's culture to help you connect with them. From positionning your message to choosing a favorable structure and convincing style, she'll work with you to make sure your communication strategy and materials stay true to your audience's culture."
 
