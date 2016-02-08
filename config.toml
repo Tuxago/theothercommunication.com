@@ -52,13 +52,10 @@ theme = "agency"
 
     # Services section
     [params.services]
-        title = "From good to great"
-        subtitle = "The secret ingredient to communicating effectively is culture: understanding how your audience thinks.<br><br>Shani Herrmann, intercultural strategist, can help you see inside your audience's mind.<br><br>She goes deep, interpreting values, not just prescribing recipes.<br><br>The goal? True communication with your audience: You understand them, and they understand you."
-		title = "A Sample Conversation"
+        title = "Reach your audience"
+        subtitle = "Culture is the secret ingredient to communicating effectively. When you know how your audience thinks, you can make your message easy for them to understand. <br><br>Shani Herrmann, intercultural strategist, can help you uncover your audience's culture see deep inside your audience's mind by understanding what their values are.<br><br>The goal? True communication with your audience: You understand them, and they understand you."
 
 		[[params.services.row]]
-		title = "A Sample Conversation"
-
             [[params.services.row.list]]
                 icon = "fa-hand-o-left"
                 title = "Know yourself."
@@ -103,7 +100,7 @@ theme = "agency"
             date = ""
 			circletext = "My<br>mission"
             title = "Connecting People"
-            description = "...by helping them deeply understand themselves and the Other.  Because we acquire multiple, unique perspectives when we walk in other people's shoes, and respond differently to each one, creating multiple versions of ourselves. Learning to communicate with Others is an enriching experience for each of us."
+            description = "...by helping them deeply understand themselves and the Other.  Once you hold these keys, using them to unlock effective communication in a presentation, a website, or video is easy. I help businesses communicate effectively and authentically with others. What project can I help you with?"
 
         [[params.about.events]]
             img = "Place setting 200.jpg"
