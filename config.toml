@@ -100,13 +100,13 @@ theme = "agency"
             date = ""
 			circletext = "My<br>mission"
             title = "Connecting People"
-            description = "...by helping them deeply understand themselves and the Other.  Once you hold these keys, using them to unlock effective communication in a presentation, a website, or video is easy. I help businesses communicate effectively and authentically with others. What project can I help you with?"
+            description = "...by helping them deeply understand themselves and their audience. Which values? Which assumptions? What are the 'rules of the game'?"
 
         [[params.about.events]]
             img = "Place setting 200.jpg"
             date = ""
             title = "Other Cultures"
-            description = "My love for the peoples and cultures of the world comes from my father: originally from Morocco, he is an expatriate who speaks 4 languages and married someone from another country.<br><br>The apple doesn’t fall far from the tree. I am also an expatriate who speaks four languages (English, French, Portuguese and Spanish), married to someone from another country - and, like my father, have a daughter with a different passport."
+            description = "My love for the peoples and cultures of the world comes from my father: originally from Morocco, he is an expatriate who speaks 4 languages and married someone from another country.<br><br>Guess the apple doesn’t fall far from the tree: I am also an expatriate who speaks four languages (English, French, Portuguese and Spanish), married to someone from another country - and, like my father, have a daughter with a different passport."
 
         [[params.about.events]]
             img = "montessori cube 200.jpg"
