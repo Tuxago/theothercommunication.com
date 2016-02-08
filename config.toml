@@ -88,8 +88,8 @@ theme = "agency"
 
     # About section
     [params.about]
-        title = "The Making of an Intercultural Strategist"
-        subtitle = "From Here to There"
+        title = "Making Of"
+        subtitle = "an Intercultural Strategist"
         endpoint = "Your<br>Project"
 
         # The events will be listed from the top to the bottom.
