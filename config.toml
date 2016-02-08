@@ -53,7 +53,7 @@ theme = "agency"
     # Services section
     [params.services]
         title = "Reach your audience"
-        subtitle = "Shani Herrmann, intercultural strategist, can help understand how your audience thinks. <br><br>Result: You understand them. They understand you."
+        subtitle = "Shani Herrmann, intercultural strategist, helps businesses communicate effectively and authentically with others..internally and externally. She'll help you deeply understand yourself and the people you want to connect with. Once you hold these keys, using them to unlock effective communication in a presentation, a website, or video is easy. Result: You understand them. They understand you.<br><br>What project can I help you with?"
 
 		[[params.services.row]]
             [[params.services.row.list]]
