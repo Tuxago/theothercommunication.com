@@ -53,30 +53,27 @@ theme = "agency"
     # Services section
     [params.services]
         title = "Reach your Goals by Reaching Your Audience"
-        subtitle = "Shani Herrmann, Communications Coach, helps her clients reach their goals, one successful communications project at a time. The concept: Connect with others by being yourself (included in this package: understanding others / knowing yourself / expressing yourself).  With past clients, she has worked on presentations, internal communication videos, sales brochures, oral exams, business websites, and more...What kind of project can she help you with?<br></br> Services available in English, French, Portuguese, or Spanish."
+        subtitle = "Shani Herrmann, Communications Coach, helps her clients reach their goals, one successful communications project at a time.<br></br>The concept: Connect with others by being yourself. Included in this package: Understanding Others + Knowing Yourself + Expressing Yourself.<br></br>With past clients, she has worked on presentations, internal communication videos, sales brochures, oral exams, business websites, and more...What kind of project can she help you with?<br></br> Services available in English, French, Portuguese, or Spanish."
 
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = " fa-comment"
-                title = "Presentations, Speeches, Oral Exams"
-                description = "Speak clearly and confidently. Share information with your audience. Leave them with a message they'll remember."
+                title = "The Spoken Word"
+                description = "Presentations, Speeches, Meetings, Oral Exams, etc.<br></br>Speak clearly and confidently. Share information with your audience. Leave them with a message they'll remember."
             [[params.services.row.list]]
                 icon = " fa-file-text-o "
-                title = "Websites, Brochures, "
-                description = "Information that's easy to find. A message that expresses who you are in a way your audience can understand."
+                title = "Written Formats"
+                description = "Websites, brochures, etc.<br></br>Information that's easy to find. A message that expresses who you are in a way your audience can understand."
 
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
-                title = "English Conversation"
-                description = "Put your insights to work. Whether it's a presentation, important meeting, website or relationship, Shani can help you apply the insights you've gleaned about your audience's culture to help you connect with them. From positionning your message to choosing a favorable structure and convincing style, she'll work with you to make sure your communication strategy and materials stay true to your audience's culture."
+                title = "Intercultural Training"
+                description = "A paradigm shift: Understanding THEM (Learn to understand THEM. What groups codes and values would you like to understand better? Shani creates custom intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
-                title = "Intercultural Training"
-                description = "Put"
-	        [[params.services.row.list]]
-	                icon = "fa-commenting-o"
-	                title = "Intercultural Training"
-	                description = "Put"
+                title = "English Conversation Express"
+                description = "Need to keep your English skills alive?<br></br>30-minute phone conversations with a native speaker fit well into busy schedules."
+	       
     # Portfolio section
     [params.portfolio]
         # All projects defined in their own files. You can find example projects
@@ -96,7 +93,7 @@ theme = "agency"
     # About section
     [params.about]
         title = "Major Influences"
-        subtitle = "Shani's Major Influences"
+        subtitle = ""
         endpoint = "Your<br>Project"
 
         # The events will be listed from the top to the bottom.
@@ -129,9 +126,9 @@ theme = "agency"
 
     # Team section
     [params.team]
-        title = "What makes you tick?"
-        subtitle = "vv"
-        description = "I'm fascinated by values: what people consider important, and the many ways they manifest those priorities in their lives.<br><br>Successfully identifying people's values requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect. Despite what may be very disparate values, I believe that being human is common ground enough.<br><br>Understanding someone's values - whether you share them or not - makes the right language or handshake irrelevant because you can speak about what is important to them."
+        title = "About"
+        subtitle = ""
+        description = "A linguist and interculturalist by trade and education, I'm fascinated by values: what people consider important, and the many ways they manifest those priorities in their lives.<br><br>Successfully identifying people's values requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect. Despite what may be very disparate values, I believe that being human is common ground enough.<br><br>Understanding someone's values - whether you share them or not - makes the right language or handshake irrelevant because you can speak about what is important to them."
 
         # All team member's pictures are stored under 'static/img/team'.
         # Replace them with your own too.
