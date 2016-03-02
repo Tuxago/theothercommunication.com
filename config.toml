@@ -52,7 +52,7 @@ theme = "agency"
 
     # Services section
     [params.services]
-        title = "Reach your Goals by Reaching Your Audience"
+        title = "Your Key to Success"
         subtitle = "Shani Herrmann, Communications Coach, helps her clients reach their goals, one successful communications project at a time.<br></br>The Concept: Connect with others by being yourself. The Approach: Understand Others + Knowing Yourself + Deliver Your Message.<br></br>With past clients, she has worked on presentations, internal communication videos, sales brochures, oral exams, business websites, and more...What kind of project can she help you with?<br></br> Services available in English, French, Portuguese, or Spanish."
 
 		[[params.services.row]]
