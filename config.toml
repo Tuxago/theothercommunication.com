@@ -45,15 +45,19 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "Communicate Effectively"
-        subtitle = "Reach your Goals"
+        title = "Reach your Goals"
+        subtitle = "Communicate Effectively & Authentically"
         buttonText = "Tell me more"
 
 
     # Services section
     [params.services]
         title = "Reach your Goals by Reaching Your Audience"
-        subtitle = "Get the results you're looking for by communicating effectively and authentically.<br></br>Shani Herrmann, communications coach, can help you communicate your message for great results. <br></br> In English, French, Portuguese, and Spanish. What type of project are you working on?"
+        subtitle = "Shani Herrmann, Communications Coach, helps people get the results they're looking for by communicating effectively and authentically in English, French, Portuguese, or Spanish. 
+
+My clients connect with others by being themselves. I've helped them with presentations, internal communication videos, sales brochures, oral exams, business websites...
+
+What kind of project can I help you with? Get the results you're looking for by communicating effectively and authentically.<br></br> can help you communicate your message for great results. <br></br> In English, French, Portuguese, and Spanish. What type of project are you working on?"
 
 		[[params.services.row]]
             [[params.services.row.list]]
@@ -125,9 +129,9 @@ theme = "agency"
 
     # Team section
     [params.team]
-        title = "A Bit About Me"
+        title = "What makes you tick?"
         subtitle = ""
-        description = "...on a constant search for what is essential: values, and the many ways we interpret them.<br><br>Finding what people consider truly important requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect humanly, in a way that is deeper than speaking the same language or doing the right handshake.<br><br>Understanding someone's values makes the right language or handshake irrelevant."
+        description = "I'm fascinated by values: what people consider important, and the many ways they manifest those priorities in their lives.<br><br>Successfully identifying people's values requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect. Despite what may be very disparate values, I believe that being human is common ground enough.<br><br>Understanding someone's values - whether you share them or not - makes the right language or handshake irrelevant because you can speak about what is important to them."
 
         # All team member's pictures are stored under 'static/img/team'.
         # Replace them with your own too.
@@ -187,7 +191,7 @@ theme = "agency"
 
         [[params.footer.social]]
             icon = "fa-linkedin"
-            link = "#"
+            link = "https://fr.linkedin.com/in/shaniherrmann"
 
         [[params.footer.quicklinks]]
             text = "Privacy Policy"
