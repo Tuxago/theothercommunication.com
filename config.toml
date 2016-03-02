@@ -72,7 +72,7 @@ theme = "agency"
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
                 title = "English Conversation Express"
-                description = "Need to keep your English skills alive?<br></br>30-minute phone conversations with a native speaker fit well into busy schedules."
+                description = "Need to keep your English skills alive?<br></br>Practice English on the go with 30-minute phone conversations with a native speaker - Shani. Customized (you choose the topic), this format works well with busy schedules."
 	       
     # Portfolio section
     [params.portfolio]
