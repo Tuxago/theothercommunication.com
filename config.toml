@@ -35,7 +35,7 @@ theme = "agency"
     [params.navigation]
 		brand = "The Other Communication"
         services = "Services"
-		about = "Philosophy"
+		about = "About"
         portfolio = "Testimonials"
         team = "About"
         contact = "Contact"
@@ -53,7 +53,7 @@ theme = "agency"
     # Services section
     [params.services]
         title = "Reach your Goals by Reaching Your Audience"
-        subtitle = "Shani Herrmann, Communications Coach, helps her clients reach their goals, one successful communications project at a time.   clients connect with others by being themselves. I've helped them with presentations, internal communication videos, sales brochures, oral exams, business websites...What kind of project can I help you with? Get the results you're looking for by communicating effectively and authentically.<br></br> can help you communicate your message for great results. <br></br> Services available in English, French, Portuguese, or Spanish. <br></br> What type of project are you working on?"
+        subtitle = "Shani Herrmann, Communications Coach, helps her clients reach their goals, one successful communications project at a time. The concept: Connect with others by being yourself (included in this package: understanding others / knowing yourself / expressing yourself).  With past clients, she has worked on presentations, internal communication videos, sales brochures, oral exams, business websites, and more...What kind of project can she help you with?<br></br> Services available in English, French, Portuguese, or Spanish."
 
 		[[params.services.row]]
             [[params.services.row.list]]
@@ -73,6 +73,10 @@ theme = "agency"
                 icon = "fa-commenting-o"
                 title = "Intercultural Training"
                 description = "Put"
+	        [[params.services.row.list]]
+	                icon = "fa-commenting-o"
+	                title = "Intercultural Training"
+	                description = "Put"
     # Portfolio section
     [params.portfolio]
         # All projects defined in their own files. You can find example projects
@@ -91,7 +95,7 @@ theme = "agency"
 
     # About section
     [params.about]
-        title = "Great Communicators: Born or Made? "
+        title = "Major Influences"
         subtitle = "Shani's Major Influences"
         endpoint = "Your<br>Project"
 
