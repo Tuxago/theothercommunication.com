@@ -139,7 +139,7 @@ What kind of project can I help you with? Get the results you're looking for by 
         [[params.team.members]]
             img = "shani-portrait.jpg"
             name = "Shani Herrmann"
-            position = "Communications Consultant"
+            position = "Communications Coach"
             social = [
                 ["fa-twitter", "#"],
                 ["fa-facebook", "#"],
