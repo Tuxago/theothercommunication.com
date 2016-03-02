@@ -68,7 +68,7 @@ theme = "agency"
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
                 title = "Intercultural Training"
-                description = "A paradigm shift: Understanding THEM (Learn to understand THEM. What groups codes and values would you like to understand better? Shani creates custom intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
+                description = "A paradigm shift: Understanding THEM (the French, the Germans, engineers, etc.) Theory and practice come together in Shani's interactive and personalized intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
                 title = "English Conversation Express"
