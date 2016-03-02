@@ -34,7 +34,7 @@ theme = "agency"
     # Navigation
     [params.navigation]
 		brand = "The Other Communication"
-        services = "What I Do"
+        services = "Services"
 		about = "Philosophy"
         portfolio = "Testimonials"
         team = "About"
@@ -45,31 +45,34 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "Get close to your customers"
-        subtitle = "Learn how they think"
+        title = "Communicate Effectively"
+        subtitle = "Reach your Goals"
         buttonText = "Tell me more"
 
 
     # Services section
     [params.services]
-        title = "Reach your audience"
-        subtitle = "Shani Herrmann, intercultural strategist, helps businesses communicate effectively and authentically with others..internally and externally. She'll help you deeply understand yourself and the people you want to connect with. Once you hold these keys, using them to unlock effective communication in a presentation, a website, or video is easy. Result: You understand them. They understand you.<br><br>What project can I help you with?"
+        title = "Reach your Goals by Reaching Your Audience"
+        subtitle = "Get the result you're looking for by communicating effectively and authentically.<br></br>Shani Herrmann, communications coach, can help you communicate your message for great results. <br><br> In English, French, Portuguese, and Spanish. What type of project are you working on?"
 
 		[[params.services.row]]
             [[params.services.row.list]]
-                icon = "fa-hand-o-left"
-                title = "Know yourself."
-                description = "Your values. Your message.<br><br>Shani can help you put these into words, on paper."
+                icon = " fa-comment"
+                title = "Presentations, Speeches, Oral Exams"
+                description = "Speak clearly and confidently. Share information with your audience. Leave them with a message they'll remember."
             [[params.services.row.list]]
-                icon = "fa-key"
-                title = "Know your audience."
-                description = "How they think (their mental model). Their culture. Their assumptions.<br><br>Shani will analyze your market research and talk with conversations Through research and interviews, we find get to know your audience's culture. Shani analyzes the data to create a mental model that describes their values. She studies cultures - groups with shared experiences<br><br>[**Shared experience:** same country, same company, same profession, same challenge, same cause, same preferences]<br><br>Shared experiences mean **shared values**, and consequently, shared **priorities**, **language** and **behaviors**. Shani can help you uncover and decipher these unwritten rules."
+                icon = " fa-file-text-o "
+                title = "Websites, Brochures, "
+                description = "Information that's easy to find. A message that expresses who you are in a way your audience can understand."
 
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
-                title = "Craft the Message."
+                title = "English Conversation"
                 description = "Put your insights to work. Whether it's a presentation, important meeting, website or relationship, Shani can help you apply the insights you've gleaned about your audience's culture to help you connect with them. From positionning your message to choosing a favorable structure and convincing style, she'll work with you to make sure your communication strategy and materials stay true to your audience's culture."
-
+            [[params.services.row.list]]
+                icon = "fa-commenting-o"
+                title = "Intercultural Training"
+                description = "Put  
     # Portfolio section
     [params.portfolio]
         # All projects defined in their own files. You can find example projects
@@ -77,7 +80,7 @@ theme = "agency"
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
         title = "Testimonials"
-        subtitle = "How Putting Culture in Your Message Pays Off" 
+        subtitle = "by Project Type" 
 
         [params.portfolio.modal]
             client = "Client"
@@ -88,8 +91,8 @@ theme = "agency"
 
     # About section
     [params.about]
-        title = "Making Of"
-        subtitle = "an Intercultural Strategist"
+        title = "Great Communicators: Born or Made? "
+        subtitle = "Shani's Major Influences"
         endpoint = "Your<br>Project"
 
         # The events will be listed from the top to the bottom.
@@ -122,7 +125,7 @@ theme = "agency"
 
     # Team section
     [params.team]
-        title = "I am..."
+        title = "A Bit About Me"
         subtitle = ""
         description = "...on a constant search for what is essential: values, and the many ways we interpret them.<br><br>Finding what people consider truly important requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect humanly, in a way that is deeper than speaking the same language or doing the right handshake.<br><br>Understanding someone's values makes the right language or handshake irrelevant."
 
@@ -132,7 +135,7 @@ theme = "agency"
         [[params.team.members]]
             img = "shani-portrait.jpg"
             name = "Shani Herrmann"
-            position = "Intercultural Strategist"
+            position = "Communications Consultant"
             social = [
                 ["fa-twitter", "#"],
                 ["fa-facebook", "#"],
@@ -148,8 +151,8 @@ theme = "agency"
 
     # Contact section
     [params.contact]
-        title = "Let's talk."
-        subtitle =  "Write me a note or call me at [+33 6 41 88 23 40](tel:+33641882340)."
+        title = "When Successful Communication Matters"
+        subtitle =  "Give Shani a call at [+33 6 41 88 23 40](tel:+33641882340) or write her a note here.<br></br> She'll get back to you within 1 business day."
         buttonText = "Send"
 
         # 'warning' defines error messages for invalid inputs
