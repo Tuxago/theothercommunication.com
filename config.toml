@@ -45,15 +45,15 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "Reach your Goals"
+        title = ""
         subtitle = "Move your audience!"
         buttonText = "Tell me more"
 
 
     # Services section
     [params.services]
-        title = "Brand Strategy"
-        subtitle = "Move your audience by communicating authentically!<br></br>I work with you to create usable brand strategy and apply it to your communication vehicles: your corporate identity, online presence, advertising, sales toolkit, events, and internal communications.<br></br>End Result: Your audience knows exactly who you are, what you can do for them, and what you want them to do.<br></br> Services available in English, French, Portuguese, or Spanish."
+        title = "Communicate Smarter"
+        subtitle = "Get clear about your brand and apply it to all the ways you communicate.<br></br>When you get clear, your audience does too. They'll follow you anywhere!<br></br> Services available in English, French, Portuguese, or Spanish."
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = " fa-comment"
