@@ -53,12 +53,12 @@ theme = "agency"
     # Services section
     [params.services]
         title = "Communicate Smarter"
-        subtitle = "Get clear about your brand and apply it to all the ways you communicate.<br></br>When you get clear, your audience does too. They'll follow you anywhere!<br></br>In English, French, Portuguese, and Spanish."
+        subtitle = "Get clear about your brand and apply it to all the ways you communicate.<br></br>When you get clear, your audience does too. They'll follow you anywhere!"
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = " fa-comment"
                 title = "Branding Strategy"
-                description = "Presentations, Speeches, Meetings, Oral Exams, etc.<br></br>Speak clearly and confidently. Share information with your audience. Leave them with a message they'll remember."
+                description = "Getting clear about who Presentations, Speeches, Meetings, Oral Exams, etc.<br></br>Speak clearly and confidently. Share information with your audience. Leave them with a message they'll remember."
             [[params.services.row.list]]
                 icon = " fa-file-text-o "
                 title = "Content Creation"
@@ -97,7 +97,7 @@ theme = "agency"
         [[params.about.events]]
             img = "right brain left brain.jpg"
             date = ""
-			circletext = "<br>mission"
+			circletext = ""
             title = "Analysis & Intuition"
             description = "...by helping them deeply understand themselves and their audience. Which values? Which assumptions? What are the 'rules of the game'?"
 
