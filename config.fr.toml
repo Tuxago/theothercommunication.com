@@ -15,7 +15,7 @@ theme = "agency"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Shani Herrmann"
-    description = "Intercultural Content Strategy"
+    description = "Coaching et Communication Interculturelle en anglais"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -36,7 +36,7 @@ theme = "agency"
 		brand = "The Other Communication"
         services = "Services"
 		about = "About"
-        portfolio = "Testimonials"
+        portfolio = "Témoignages"
         team = "About"
         contact = "Contact"
 
@@ -45,15 +45,16 @@ theme = "agency"
     [params.hero]
         # To change the background image of the hero, replace 'header-bg.jpg' in
         # the 'static/img' folder.
-        title = "Reach your Goals"
-        subtitle = "Move your audience!"
-        buttonText = "Tell me more"
+        title = "Atteindre vos objectifs"
+        subtitle = "Créer une communication efficace et authentique"
+        buttonText = "Savoir plus"
 
 
     # Services section
     [params.services]
-        title = "Brand Strategy"
-        subtitle = "Move your audience by communicating authentically!<br></br>I work with you to create usable brand strategy and apply it to your communication vehicles: your corporate identity, online presence, advertising, sales toolkit, events, and internal communications.<br></br>End Result: Your audience knows exactly who you are, what you can do for them, and what you want them to do.<br></br> Services available in English, French, Portuguese, or Spanish."
+        title = "Coaching pour votre projet en anglais"
+        subtitle = "Shani Herrmann, américaine et coach en communication interculturelle, helps her clients reach their goals, one successful communications project at a time.<br></br>The Concept: Connect with others by being yourself. The Approach: Understand Others + Know Yourself + Deliver Your Message.<br></br>With past clients, she has worked on presentations, internal communication videos, sales brochures, oral exams, business websites, and more...What kind of project can she help you with?<br></br> Services available in English, French, Portuguese, or Spanish."
+
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = " fa-comment"
@@ -68,7 +69,7 @@ theme = "agency"
                 icon = "fa-commenting-o"
                 title = "Intercultural Training"
                 description = "A paradigm shift: Understanding THEM (the French, the Germans, engineers, etc.) Theory and practice come together in Shani's interactive and personalized intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
-          
+           
     # Portfolio section
     [params.portfolio]
         # All projects defined in their own files. You can find example projects
@@ -76,7 +77,7 @@ theme = "agency"
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
         title = "Testimonials"
-        subtitle = "From past clients, in their own words." 
+        subtitle = "by Project Type" 
 
         [params.portfolio.modal]
             client = "Client"
