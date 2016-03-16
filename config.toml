@@ -116,7 +116,7 @@ theme = "agency"
     [params.team]
         title = "About"
         subtitle = ""
-        description = "Shani puts her cultural and linguistic experience at the service of brands, cultures unto themselves.<br><br>She has been dissecting different types of cultures and the languages that express them all her life: national cultures (USA, France, Israel, Brazil, Venezuela) and company cultures (an international airline, a health insurance company, an electric company). She identifies the underlying values, how they work, and learns to speak the new language in a culturally appropriate way.<br></br>She works in English, French, Spanish, and Portuguese."
+        description = "Shani puts her cultural and linguistic experience at the service of brands, cultures unto themselves.<br><br>She has been dissecting different types of cultures and the languages that express them all her life:<br><br>...national cultures (USA, France, Israel, Brazil, Venezuela)<br><br>...company cultures (an international airline, a health insurance company, an electric company).<br><br>She identifies the underlying values, how they work, and learns to speak the new language in a culturally appropriate way.<br></br>She works in English, French, Spanish, and Portuguese."
        # All team member's pictures are stored under 'static/img/team'.
         # Replace them with your own too.
 
