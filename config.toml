@@ -15,7 +15,7 @@ theme = "agency"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Shani Herrmann"
-    description = "Intercultural Content Strategy"
+    description = "Intercultural Content Strategy "
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -57,16 +57,16 @@ theme = "agency"
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = " fa-comment"
-                title = "The Spoken Word"
+                title = "Branding Strategy"
                 description = "Presentations, Speeches, Meetings, Oral Exams, etc.<br></br>Speak clearly and confidently. Share information with your audience. Leave them with a message they'll remember."
             [[params.services.row.list]]
                 icon = " fa-file-text-o "
-                title = "Written Formats"
-                description = "Websites, brochures, etc.<br></br>Information that's easy to find. A message that expresses who you are in a way your audience can understand."
+                title = "Content Creation"
+                description = "Apply your brandingWebsites, brochures, etc.<br></br>Information that's easy to find. A message that expresses who you are in a way your audience can understand."
 
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
-                title = "Intercultural Training"
+                title = "Branding Quality"
                 description = "A paradigm shift: Understanding THEM (the French, the Germans, engineers, etc.) Theory and practice come together in Shani's interactive and personalized intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
           
     # Portfolio section
@@ -147,7 +147,7 @@ theme = "agency"
 
     # Contact section
     [params.contact]
-        title = "When Successful Communication Matters"
+        title = "Let's Talk"
         subtitle =  "Give Shani a call at [+33 6 41 88 23 40](tel:+33641882340) or write her a note here.<br></br> She'll get back to you within 1 business day."
         buttonText = "Send"
 
