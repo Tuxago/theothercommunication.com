@@ -53,7 +53,7 @@ theme = "agency"
     # Services section
     [params.services]
         title = "Communicate Smarter"
-        subtitle = "Get clear about your brand and apply it to all the ways you communicate.<br></br>When you get clear, your audience does too. They'll follow you anywhere!<br></br> Services available in English, French, Portuguese, or Spanish."
+        subtitle = "Get clear about your brand and apply it to all the ways you communicate.<br></br>When you get clear, your audience does too. They'll follow you anywhere!<br></br>In English, French, Portuguese, and Spanish."
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = " fa-comment"
@@ -66,8 +66,8 @@ theme = "agency"
 
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
-                title = "Branding Quality"
-                description = "A paradigm shift: Understanding THEM (the French, the Germans, engineers, etc.) Theory and practice come together in Shani's interactive and personalized intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
+                title = "Continuous Branding"
+                description = "Make sure your content stays true to your brand. Get all content reviewed on an ongoing basis A paradigm shift: Understanding THEM (the French, the Germans, engineers, etc.) Theory and practice come together in Shani's interactive and personalized intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
           
     # Portfolio section
     [params.portfolio]
@@ -87,7 +87,7 @@ theme = "agency"
 
     # About section
     [params.about]
-        title = "Major Influences"
+        title = "Why Shani?"
         subtitle = ""
         endpoint = "Your<br>Project"
 
@@ -97,33 +97,27 @@ theme = "agency"
         [[params.about.events]]
             img = "1.jpg"
             date = ""
-			circletext = "My<br>mission"
-            title = "Connecting People"
+			circletext = "<br>mission"
+            title = "Analysis & Intuition"
             description = "...by helping them deeply understand themselves and their audience. Which values? Which assumptions? What are the 'rules of the game'?"
-
-        [[params.about.events]]
-            img = "Place setting 200.jpg"
-            date = ""
-            title = "Other Cultures"
-            description = "My love for the peoples and cultures of the world comes from my father, an expatriate who speaks 4 languages - like me. (English, French, Portuguese and Spanish if you're asking!)"
-
-        [[params.about.events]]
-            img = "montessori cube 200.jpg"
-            date = ""
-            title = "Montessori"
-            description = "My grandmother's Montessori school, which I attended from 3-6 years old, promoted the joy of learning: creatively and at one's own pace. This is the approach I use with clients today, by creating a relaxed environment where information and ideas can flow. Like my mother, grandmother and aunts - all teachers - I gain a deep satisfaction from seeing people grow."
 
         [[params.about.events]]
             img = "globe 200.jpg"
             date = ""
-            title = "Living Abroad"
-            description = "My experience as an American living outside the USA - in Venezuela, Brazil, and now France - have taught me that language alone is not enough to truly understand people. You must understand the values that govern their belief systems, and recognize the manifestations of those values. Language is only one way in which a culture manifests its values."
+            title = "Extensive Cultural Experience"
+            description = "My experience as an American living outside the USA - in Venezuela, Brazil, and now France - have taught me that language alone is not enough to truly understand people. You must understand the values that govern their belief systems, and recognize the manifestations of those values. Language is only one way in which a culture manifests its values.My love for the peoples and cultures of the world comes from my father, an expatriate who speaks 4 languages - like me. (English, French, Portuguese and Spanish if you're asking!)"
+
+        [[params.about.events]]
+            img = "montessori cube 200.jpg"
+            date = ""
+            title = "A Co-Creative Approach"
+            description = "My grandmother's Montessori school, which I attended from 3-6 years old, promoted the joy of learning: creatively and at one's own pace. This is the approach I use with clients today, by creating a relaxed environment where information and ideas can flow. Like my mother, grandmother and aunts - all teachers - I gain a deep satisfaction from seeing people grow."
 
     # Team section
     [params.team]
         title = "About"
         subtitle = ""
-        description = "A linguist and interculturalist by trade and education, I'm fascinated by values: what people consider important, and the many ways they manifest those priorities in their lives.<br><br>Identifying people's values requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect. Despite what may be very disparate values, I believe that being human is common ground enough.<br><br>Understanding someone's values - whether you share them or not - makes the right language or handshake irrelevant because you can speak about what is important to them."
+        description = "As a linguist and interculturalist, I'm fascinated by values: what people consider important, and the many ways they manifest those priorities in their lives.<br><br>Identifying people's values requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect. Despite what may be very disparate values, I believe that being human is common ground enough.<br><br>Understanding someone's values - whether you share them or not - makes the right language or handshake irrelevant because you can speak about what is important to them."
 
         # All team member's pictures are stored under 'static/img/team'.
         # Replace them with your own too.
@@ -131,7 +125,7 @@ theme = "agency"
         [[params.team.members]]
             img = "shani-portrait.jpg"
             name = "Shani Herrmann"
-            position = "Communications Coach"
+            position = "Intercultural Brand Strategist"
             social = [
                 ["fa-twitter", "#"],
                 ["fa-facebook", "#"],
