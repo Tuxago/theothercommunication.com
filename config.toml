@@ -58,16 +58,16 @@ theme = "agency"
             [[params.services.row.list]]
                 icon = " fa-comment"
                 title = "Branding Strategy"
-                description = "Getting clear about who Presentations, Speeches, Meetings, Oral Exams, etc.<br></br>Speak clearly and confidently. Share information with your audience. Leave them with a message they'll remember."
+                description = "Getting clear about who you are starts here. What are your values? What's your style? What makes you unique?<br><br>Come away with a branding roadmap and a sense of self that will have you communicating confidently and authentically in no time."
             [[params.services.row.list]]
                 icon = " fa-file-text-o "
                 title = "Content Creation"
-                description = "Apply your brandingWebsites, brochures, etc.<br></br>Information that's easy to find. A message that expresses who you are in a way your audience can understand."
+                description = "Get content that lives your brand.<br></br>Turnkey solutions for your communication plan: corporate identity, online presence, advertising, sales toolkit, events, and more."
 
             [[params.services.row.list]]
                 icon = "fa-commenting-o"
                 title = "Continuous Branding"
-                description = "Make sure your content stays true to your brand. Get all content reviewed on an ongoing basis A paradigm shift: Understanding THEM (the French, the Germans, engineers, etc.) Theory and practice come together in Shani's interactive and personalized intercultural trainings complete with Cultural Witnesses who know how to communicate with your target group."
+                description = "Make sure your content stays true to your brand. Get all content reviewed for brand consistency on an ongoing basis."
           
     # Portfolio section
     [params.portfolio]
