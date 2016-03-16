@@ -95,7 +95,7 @@ theme = "agency"
         # All images are stored under 'static/img/about'.
         # Replace them with your own.
         [[params.about.events]]
-            img = "1.jpg"
+            img = "right brain left brain.jpg"
             date = ""
 			circletext = "<br>mission"
             title = "Analysis & Intuition"
