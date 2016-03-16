@@ -97,7 +97,6 @@ theme = "agency"
         [[params.about.events]]
             img = "right brain left brain.jpg"
             date = ""
-			circletext = ""
             title = "Analysis & Intuition"
             description = "...by helping them deeply understand themselves and their audience. Which values? Which assumptions? What are the 'rules of the game'?"
 
