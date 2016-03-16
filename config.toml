@@ -117,9 +117,8 @@ theme = "agency"
     [params.team]
         title = "About"
         subtitle = ""
-        description = "As a linguist and interculturalist, I'm fascinated by values: what people consider important, and the many ways they manifest those priorities in their lives.<br><br>Identifying people's values requires both intuition and analysis, art and science, right brain and left brain. I love to help people connect. Despite what may be very disparate values, I believe that being human is common ground enough.<br><br>Understanding someone's values - whether you share them or not - makes the right language or handshake irrelevant because you can speak about what is important to them."
-
-        # All team member's pictures are stored under 'static/img/team'.
+        description = "Shani puts her cultural and linguistic experience at the service of brands, cultures unto themselves.<br><br>She has been dissecting different types of cultures and the languages that express them all her life: national cultures (USA, France, Israel, Brazil, Venezuela) and company cultures (an international airline, a health insurance company, an electric company). She identifies the underlying values, how they work, and learns to speak the new language in a culturally appropriate way.<br></br>She works in English, French, Spanish, and Portuguese."
+       # All team member's pictures are stored under 'static/img/team'.
         # Replace them with your own too.
 
         [[params.team.members]]
