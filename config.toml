@@ -54,7 +54,6 @@ theme = "agency"
     [params.services]
         title = "Brand Strategy"
         subtitle = "Move your audience by communicating authentically!<br></br>I work with you to create usable brand strategy and apply it to your communication vehicles: your corporate identity, online presence, advertising, sales toolkit, events, and internal communications.<br></br>End Result: Your audience knows exactly who you are, what you can do for them, and what you want them to do.<br></br> Services available in English, French, Portuguese, or Spanish."
-        title = "Menu"
 		[[params.services.row]]
             [[params.services.row.list]]
                 icon = " fa-comment"
