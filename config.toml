@@ -58,7 +58,7 @@ theme = "agency"
             [[params.services.row.list]]
                 icon = " fa-comment"
                 title = "Branding Strategy"
-                description = "Getting clear about who you are starts here. What are your values? What's your style? What makes you unique?<br><br>Come away with a branding roadmap and a sense of self that will have you communicating confidently and authentically in no time."
+                description = "Getting clear about who you are starts here. What are your values? What's your style? What makes you unique?<br><br>Come away with a branding roadmap and a sense of self that will have you communicating confidently and authentically."
             [[params.services.row.list]]
                 icon = " fa-file-text-o "
                 title = "Content Creation"
@@ -98,19 +98,19 @@ theme = "agency"
             img = "right brain left brain.jpg"
             date = ""
             title = "Analysis & Intuition"
-            description = "...by helping them deeply understand themselves and their audience. Which values? Which assumptions? What are the 'rules of the game'?"
+            description = "Right brain or left brain? Shani is both. Sensitive to nuances in design, language, and emotion. Logical and results-oriented. You get the best of both worlds."
 
         [[params.about.events]]
             img = "globe 200.jpg"
             date = ""
             title = "Extensive Cultural Experience"
-            description = "My experience as an American living outside the USA - in Venezuela, Brazil, and now France - have taught me that language alone is not enough to truly understand people. You must understand the values that govern their belief systems, and recognize the manifestations of those values. Language is only one way in which a culture manifests its values.My love for the peoples and cultures of the world comes from my father, an expatriate who speaks 4 languages - like me. (English, French, Portuguese and Spanish if you're asking!)"
+            description = "Shani has lived in North and South America, Europe and the Middle East, has travelled extensively and has worked with people from many different disciplines all over the world. She'll figure out your brand's culture - and the culture of the context you operate in - in no time."
 
         [[params.about.events]]
             img = "montessori cube 200.jpg"
             date = ""
             title = "A Co-Creative Approach"
-            description = "My grandmother's Montessori school, which I attended from 3-6 years old, promoted the joy of learning: creatively and at one's own pace. This is the approach I use with clients today, by creating a relaxed environment where information and ideas can flow. Like my mother, grandmother and aunts - all teachers - I gain a deep satisfaction from seeing people grow."
+            description = "Shani's approach to working with clients has its roots in Montessori - Shani's family business. It's about working together to find solutions in a positive, relaxed environment where creativity flows."
 
     # Team section
     [params.team]
