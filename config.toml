@@ -52,7 +52,7 @@ theme = "agency"
 
     # Services section
     [params.services]
-        title = "Communicate Smarter"
+        title = "Communicate Smarter and Better and Faster"
         subtitle = "A deep understanding of who you are and who your audience is makes all the difference in the way you communicate. Adapt your words, design, and style to your  You'll move your audience. You'll move mountains.<br><br>Here's how:"
 		[[params.services.row]]
             [[params.services.row.list]]
