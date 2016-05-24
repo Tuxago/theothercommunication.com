@@ -52,7 +52,7 @@ theme = "agency"
 
     # Services section
     [params.services]
-        title = "Words that describe you, in language that moves your audience"
+        title = "Words that describe you"
         subtitle = "Find the words that tell your truth. Now, translate them into language that resonates with your audience. Convince them. Call them to action. <br><br>When that's easier said than done, an intercultural communication strategist can help. Here's how:"
 		[[params.services.row]]
             [[params.services.row.list]]
